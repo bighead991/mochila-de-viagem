@@ -130,3 +130,10 @@ html {
     font-weight: 400;
 }
 
+button {
+    background: transparent;
+    border-style: none;
+    cursor: pointer;
+    font-size: larger;
+    color: red;
+}
